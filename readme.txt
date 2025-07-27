@@ -11,8 +11,5 @@ this is my first repository!!
 6666
 7777
 8888
-<<<<<<< HEAD
-
-=======
 fenzhi1 9999
->>>>>>> fenzhi1
+
